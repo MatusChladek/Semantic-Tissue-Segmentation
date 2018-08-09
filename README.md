@@ -5,7 +5,7 @@ Main challenges were mainly related to sample size, unbalanced classes. two diff
 
 ## Models.
 
-* **TernausNet** ([arXiv paper](https://arxiv.org/abs/1801.05746)) - U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation implemented from
+* **TernausNet** ([arXiv paper](https://arxiv.org/abs/1801.05746)) - U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation implemented from [github repository](https://github.com/ternaus/TernausNet)
 
 
 
